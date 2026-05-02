@@ -53,7 +53,3 @@ I am an active contributor and member of the ZenOS project team.
     <img src="https://img.shields.io/badge/YouTube-@mrmariixx-red?style=for-the-badge&logo=youtube"/>
   </a>
 </p>
-
----
-
-**Disclaimer**: Xylar Inc. projects are independent and not officially affiliated with third-party software mentioned unless stated otherwise.
