@@ -1,6 +1,6 @@
 # Mrmariix
 
-I am the owner of **Xylar Inc.** and the developer behind **XylarJava** and **XylarBedrock**. Additionally, I am a member of the **ZenOS** project.
+I am the owner of **Xylar Inc.** and the developer behind **XylarJava** and **XylarBedrock**.  ANND I am a member of the **ZenOS** project.
 
 ---
 
@@ -21,9 +21,6 @@ I have experience with C++, C#, JavaScript, and Python.
 ---
 
 ## Projects
-
-### Xylar Inc.
-The main organization for my development work, including software tools and game-related projects.
 
 ### XylarJava & XylarBedrock
 Dedicated projects focused on enhancing and managing different versions of the Minecraft ecosystem.
