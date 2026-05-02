@@ -1,16 +1,22 @@
-## Hi there 👋
+from ds_python_interpreter import execute_python
 
-<!--
-**xylarcompany/xylarcompany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+readme_content = """# Mrmariix
 
-Here are some ideas to get you started:
+I am Mrmariix, the owner of Xylar Inc. and the creator of XylarJava and XylarBedrock. I am also a member of the ZenOS project team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages
+I have experience and knowledge in the following programming languages:
+- C++
+- C#
+- JavaScript
+- Python
+
+## Language Assets
+![C++ Logo](ISO_C++_Logo.svg.png)
+![C# Logo](Logo_C_sharp.svg.png)
+![JavaScript Logo](javascript-logo.png)
+![Python Logo](Python-logo-notext.svg.png)
+"""
+
+with open("README.md", "w") as f:
+    f.write(readme_content)
