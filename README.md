@@ -4,7 +4,7 @@ I am the owner of **Xylar Inc.** and the developer behind **XylarJava** and **Xy
 
 ---
 
-## Skills and Tech Stack
+## What i currently know
 
 I have experience with C++, C#, JavaScript, and Python.
 
@@ -20,7 +20,7 @@ I have experience with C++, C#, JavaScript, and Python.
 
 ---
 
-## Projects
+## My current and beloved projects!!
 
 ### XylarJava & XylarBedrock
 Dedicated projects focused on enhancing and managing different versions of the Minecraft ecosystem.
