@@ -1,22 +1,24 @@
-from ds_python_interpreter import execute_python
+# Welcome, I am Mrmariix
 
-readme_content = """# Mrmariix
+I am a software developer and the proud owner of **Xylar Inc.** 
 
-I am Mrmariix, the owner of Xylar Inc. and the creator of XylarJava and XylarBedrock. I am also a member of the ZenOS project team.
+Through my work at Xylar Inc., I have created and currently manage core projects such as **XylarJava** and **XylarBedrock**. In addition to my personal ventures, I am also an active contributor and team member of the **ZenOS** project.
 
-## Programming Languages
-I have experience and knowledge in the following programming languages:
-- C++
-- C#
-- JavaScript
-- Python
+## About Me & My Work
+- **Xylar Inc.** - Owner & Founder
+- **XylarJava** - Creator & Lead Developer
+- **XylarBedrock** - Creator & Lead Developer
+- **ZenOS** - Project Member
 
-## Language Assets
-![C++ Logo](ISO_C++_Logo.svg.png)
-![C# Logo](Logo_C_sharp.svg.png)
-![JavaScript Logo](javascript-logo.png)
-![Python Logo](Python-logo-notext.svg.png)
-"""
+## Tech Stack
+I have knowledge and practical experience with the following programming languages:
 
-with open("README.md", "w") as f:
-    f.write(readme_content)
+![C++](ISO_C++_Logo.svg.png) ![C#](Logo_C_sharp.svg.png) ![JavaScript](javascript-logo.png) ![Python](Python-logo-notext.svg.png)
+
+* C++
+* C#
+* JavaScript
+* Python
+
+---
+*Feel free to explore my repositories to see what I am working on!*
