@@ -6,7 +6,7 @@ I am the owner of **Xylar Inc.** and the developer behind **XylarJava** and **Xy
 
 ## What i currently know
 
-I have experience with C++, C#, JavaScript, and Python.
+I have experience with C++, C#, JavaScript, Python and a little bit of shell!
 
 <p align="center">
   <img src="ISO_C++_Logo.svg.png" alt="C++ Logo" width="80"/>
