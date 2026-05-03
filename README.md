@@ -1,10 +1,10 @@
 # Mrmariix
 
-I am the owner of **Xylar Inc.** and the developer behind **XylarJava** and **XylarBedrock**.  ANND I am a member of the **ZenOS** project.
+I am the owner of **Xylar Inc.** and the developer behind **XylarJava** and **XylarBedrock**. AAND I am a member of the **ZenOS** project.
 
 ---
 
-## What i currently know
+## What I currently know
 
 I have experience with C++, C#, JavaScript, Python and a little bit of shell!
 
@@ -17,7 +17,7 @@ I have experience with C++, C#, JavaScript, Python and a little bit of shell!
   &nbsp;&nbsp;&nbsp;
   <img src="Python-logo-notext.svg.png" alt="Python Logo" width="80"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="shell-bash.png" alt="Bash Logo" width="80/>
+  <img src="shell-bash.png" alt="Bash Logo" width="80"/>
 </p>
 
 ---
