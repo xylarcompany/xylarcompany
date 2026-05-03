@@ -16,6 +16,8 @@ I have experience with C++, C#, JavaScript, Python and a little bit of shell!
   <img src="javascript-logo.png" alt="JavaScript Logo" width="80"/>
   &nbsp;&nbsp;&nbsp;
   <img src="Python-logo-notext.svg.png" alt="Python Logo" width="80"/>
+   &nbsp;&nbsp;&nbsp;
+  <img src="shell-bash.png" alt="Bash Logo" width="88/>
 </p>
 
 ---
