@@ -6,20 +6,9 @@ I am the owner of **Xylar Inc.** and the developer behind **XylarJava** and **Xy
 
 ## What I currently know
 
-I have experience with C++, C#, JavaScript, Python and a little bit of shell!
+ -- gonna continue this later, sorry.
 
-<p align="center">
-  <img src="ISO_C++_Logo.svg.png" alt="C++ Logo" width="80"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="Logo_C_sharp.svg.png" alt="C# Logo" width="80"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="javascript-logo.png" alt="JavaScript Logo" width="80"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="Python-logo-notext.svg.png" alt="Python Logo" width="80"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="shell-bash.png" alt="Bash Logo" width="80"/>
-</p>
-
+ 
 ---
 
 ## My current and beloved projects!!
